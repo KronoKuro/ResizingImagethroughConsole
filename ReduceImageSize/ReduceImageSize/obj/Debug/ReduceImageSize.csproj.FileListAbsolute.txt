@@ -1,0 +1,14 @@
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\bin\Debug\ReduceImageSize.exe.config
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\bin\Debug\ReduceImageSize.exe
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\bin\Debug\ReduceImageSize.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\bin\Debug\EntityFramework.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\bin\Debug\EntityFramework.xml
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\obj\Debug\ReduceImageSize.csprojAssemblyReference.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\obj\Debug\ReduceImageSize.csproj.CoreCompileInputs.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\obj\Debug\ReduceImageSize.csproj.CopyComplete
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\obj\Debug\ReduceImageSize.exe
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\obj\Debug\ReduceImageSize.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\obj\Debug\ReduceImageSize.Migrations.init.resources
+C:\Users\Pmatrosov\Desktop\ProjGit\ReduceImageSize\ReduceImageSize\obj\Debug\ReduceImageSize.csproj.GenerateResource.cache
